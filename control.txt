@@ -1,0 +1,23 @@
+#Search Parameters
+Stol= 0.0001d0
+angleDev= 45.0d0 45.0d0
+mrange= -10 10
+nrange= -10 10
+prange= -10 10
+x3scale= 1
+maxpairs= 100000 100000
+########################
+#Direction of Interest, give miller indices of planes (hkl)
+Sx= 0.0d0  
+Sy= 0.0d0
+Sz= 1.0d0  
+########################
+#Crystal Lattice Parameters
+a(A)= 6.541667d0   
+b(A)= 10.25412d0
+c(A)= 7.598024d0
+alpha(deg)= 90.0d0
+beta(deg)= 98.50952d0
+gamma(deg)= 90.0d0
+molperunit= 2
+atpermol= 28 28
